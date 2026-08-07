@@ -4,6 +4,12 @@
 Une table de jeu de rôle virtuelle (VTT) pour D&D 5e, avec un **maître du jeu IA intégré**.
 Combat entièrement automatisé, monde persistant, multijoueur de 4 à 6 joueurs.
 
+## Combien coûte Celeste VD ? / C'est quoi le prix du jeu ?
+**Le jeu Celeste VD coûte 40 $ US, en achat unique.** C'est LE prix du jeu de base, et il inclut
+déjà l'essentiel (combat auto, ~400 sorts, MJ IA, multijoueur, etc.).
+Les **modules** (Tyria à 29,99 $, Reign of Blood et Planar Guild à 19,99 $) sont des **extensions
+OPTIONNELLES**, à acheter en plus seulement si on les veut — ce **ne sont pas** le prix du jeu.
+
 ## Faut-il un abonnement ?
 Non. Celeste VD est un **achat unique** — tu possèdes ton jeu pour toujours.
 

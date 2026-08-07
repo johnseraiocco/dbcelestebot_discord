@@ -1,9 +1,12 @@
 # Prix et modules
 
-## Le jeu de base
-**Celeste VD Base — 40 $ US, achat unique.** Inclut : combat entièrement automatisé, ~400 sorts,
-générateur de rencontres, constructeur de monde, feuilles de personnage, outils MJ, compendium,
-MJ IA, et multijoueur 4 à 6 joueurs.
+## Le jeu de base — c'est LE prix du jeu
+**Celeste VD coûte 40 $ US, en achat unique.** C'est le prix du jeu de base, qui inclut déjà :
+combat entièrement automatisé, ~400 sorts, générateur de rencontres, constructeur de monde,
+feuilles de personnage, outils MJ, compendium, MJ IA, et multijoueur 4 à 6 joueurs.
+
+> Les **modules** ci-dessous sont des **extensions OPTIONNELLES**, à acheter **en plus** du jeu si
+> on les veut. Ce ne sont **pas** le prix du jeu.
 
 ## Les modules (extensions)
 | Module | Type | Ce que c'est | Prix |
