@@ -1,15 +1,15 @@
 # Terres de Sang (Reign of Blood)
 
-« Terres de Sang » — en anglais **Reign of Blood** — est un module de Celeste VD.
+« Terres de Sang » — en anglais **Reign of Blood** — fait partie de Celeste VD : **inclus dans le jeu**.
 *(Les deux noms désignent la même chose.)*
 
 ## Ce que c'est
-Un système de **combat de masse** : sièges et batailles épiques **jusqu'à 100 unités**.
-Module de type mécaniques, **19,99 $ US**.
+**Gestion de domaine** et **combat de masse** : sièges et batailles épiques **jusqu'à 100 unités**. Le **Hive Mind** fait jouer
+les autres factions (voir `hive-mind.md`).
 
 ## La gestion de domaine par saisons
-Au-delà des batailles, Terres de Sang fait tourner des **domaines** (provinces, régents) à travers
-un système de **saisons** en **5 phases**, jouées l'une après l'autre :
+Reign of Blood fait tourner des **domaines** (provinces, régents) à travers un système de **saisons** en **5 phases**, jouées
+l'une après l'autre :
 
 1. **Préparation**
 2. **Actions**
@@ -17,9 +17,8 @@ un système de **saisons** en **5 phases**, jouées l'une après l'autre :
 4. **Résolution**
 5. **Clôture**
 
-Un **MJ IA** guide la saison (commande `/saison` dans le jeu) et fait avancer le suivi de saison
-en temps réel à chaque phase.
+Le suivi de saison (onglet **Saison** de Terres de Sang) avance à chaque phase.
 
 ---
-*Résumé volontairement bref. Le rulebook illustré complet des Terres de Sang est un document
-séparé, à venir pour les joueurs.*
+*Résumé volontairement bref. Le livre de règles illustré complet des Terres de Sang est un document séparé, à venir pour les
+joueurs.*

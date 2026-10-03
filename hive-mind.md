@@ -1,26 +1,17 @@
-# Le hive mind (le « Tour du Monde » des Terres de Sang)
+# Le Hive Mind (le « Tour du Monde » de Reign of Blood)
 
-Le **hive mind** est le système qui **fait vivre le monde tout seul** dans le module Terres de
-Sang (Reign of Blood). On l'appelle aussi le **« Tour du Monde » (World-Turn)**.
+Le **Hive Mind** est le système qui **met les factions en vie** dans Reign of Blood (Terres de Sang). Il est **terminé et livré**
+dans le jeu (version 2.1.13). Le constructeur de monde est la mémoire du monde ; le Hive Mind le fait bouger.
+« Donner vie à un monde en quelques secondes. »
 
 ## Ce qu'il fait
-À chaque saison, le hive mind joue le tour de **chaque faction rivale (PNJ)** — les seigneurs et
-domaines que les joueurs n'incarnent pas. Ces factions agissent d'elles-mêmes :
+À chaque saison, le Hive Mind joue le tour de **chaque faction rivale (PNJ)** — les seigneurs et domaines que les joueurs
+n'incarnent pas :
+- **diplomatie** : relations, **alliances**, **mariages**, routes commerciales, hostilités ;
+- **événements narratifs** au début de chaque saison ;
+- **tours des factions PNJ** et **combats de masse**.
 
-- **Recrutent des armées** ;
-- **Mènent leur diplomatie** : nouent des relations, signent des **alliances**, ouvrent des
-  **routes commerciales**, ou deviennent hostiles ;
-- Agissent selon leur **domaine** : points de régence (PR), loi (LO), loyauté des provinces,
-  et l'état de leurs relations avec les voisins.
+Résultat : la campagne **vit et réagit** entre les actions des joueurs — les rivaux poursuivent leurs propres buts, le monde
+n'attend pas. Le joueur voit le monde bouger dans le suivi de saison et le panneau de diplomatie.
 
-Résultat : la campagne **vit et réagit naturellement** entre les actions des joueurs — les rivaux
-poursuivent leurs propres buts, le monde n'attend pas.
-
-## Comment ça marche (en bref)
-Une IA **propose** le tour de chaque faction (dans le jeu, un modèle local et gratuit s'en charge),
-puis **Claude valide et exécute** les actions — coûts, jets et effets sont appliqués proprement.
-Le joueur voit le monde bouger via le suivi de saison et le **panneau de diplomatie**.
-
-## La vision plateforme
-Au-delà des Terres de Sang, le hive mind est pensé pour **apporter du contexte aux autres MMO** de
-la plateforme Celeste — qui vise à faire tourner plusieurs mondes, pas seulement D&D.
+Comme les autres fonctions narratives, Reign of Blood utilise le modèle IA choisi par le MJ (Ollama ou Claude, voir `faq.md`).
